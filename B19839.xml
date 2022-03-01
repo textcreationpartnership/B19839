@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the better ordering the transportation of cloths and other woollen manufactures into Germany, and preventing the encroachments on the fellowship of the merchants-adventurers of England in relation to their trading in those commodities.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19839</idno>
+            <idno type="OCLC"> 15578441</idno>
+            <idno type="STC">Wing C3454</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[197]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[191]</idno>
+            <idno type="STC">ESTC R35897</idno>
+            <idno type="EEBO-CITATION">99890085</idno>
+            <idno type="PROQUEST">ocm99890085</idno>
+            <idno type="VID">190136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B19839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190136)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[197]; C18:2[191])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the better ordering the transportation of cloths and other woollen manufactures into Germany, and preventing the encroachments on the fellowship of the merchants-adventurers of England in relation to their trading in those commodities.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill deceas'd: and by Henry Hills, and Thomas Newcomb, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Windsor the thirteenth day of June 1683. In the five and thirtieth year of our reign.</note>
+                  <note>Steele notation: Arms 92  the Infringed 2) se- 3) ut- Our.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel C18 consists of one contiguous sheet filmed across two frames.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:190136:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <p>HONI <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> PENSE</p>
+                  <p>DIEV · ET · MON · DROIT.</p>
+               </figure> By the King. A PROCLAMATION For the better Ordering the Tranſportation of Cloths and other Woollen Manufactures into <hi>Germany,</hi> and preventing the Encroachments on the Fellowſhip of the Merchants-Adventurers of <hi>England</hi> in relation to their Trading in thoſe Commodities.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E being ſenſible how much it imports the Profit and Honour of this our Realm, that the Trade of Exporting of Woollen Manufactures into <hi>Germany,</hi> and the Seventeén Provinces of the <hi>Netherlands</hi> be encouraged and preſerved under a due Regulation, which hath of long time beén maintained and carried on by the Company of Merchant-Adventurers, by vertue of ſeveral Grants, Charters, and Confirmations to them by Vs and Our Royal Predeceſſors heretofore made and Granted, to the great Advancement and Increaſe of the ſaid Trade; And being given to underſtand by the ſaid Company, That their ſaid Trade, and the Liberties and Priviledges by Vs and Our Royal Predeceſſors to them Granted, have beén very much of late Invaded and Infringed, and principally by Aliens, and other Foreigners, to whom We have extended Our Grace and Favour of Naturalization or Endenization; Who in requital of Our Grace and Favour towards them, make it their endeavour to deſtroy the ſaid Company, and being under no Rule or Regulation for Exporting the Woollen Manufacture, do take upon them to Ship, Tranſport, Carry, and Convey the Cloth and Woollen Manufactures of this Kingdom unto the Town of <hi>Hambourg,</hi> and other parts of <hi>Germany,</hi> whereby, and by ſe<g ref="char:EOLhyphen"/>veral deceitful practices of the ſaid Foreigners, in counterfeiting the Marks, Seals, and Tillets of Perſons Freé of the ſaid Company, the ſaid Trade will be in great danger of being impaired, if not totally loſt to the Natives of this Our Realm: And for that the ſaid Company have ſubmitted it to Vs and Our Privy Council, to ad<g ref="char:EOLhyphen"/>mit into the Freédom of the ſaid Company, any of Our Subjects, whether Natives, Naturalized, or Endenized, upon ſuch Terms as We by the Advice of Our Privy Council ſhall judge reaſonable. We therefore of Our Princely Care for the Preſervation and Regulation of the Trade of Cloth, and all other Woollen Manufactures now made, or here<g ref="char:EOLhyphen"/>after to be made within this Our Kingdom, have thought fit, with Advice of Our Privy Council, to Declare and Publiſh Our Royal Will and Pleaſure to be, and We do hereby ſtrictly Will and Command, That no Perſon or Perſons, Subject, or Subjects of Our Realm of <hi>England,</hi> Alien or Foreigner, Naturalized, or Endenized, ſhall from henceforth Ship, Tranſport, Carry, or Convey, or cauſe to be Shipped, Tranſported, Carried or Conveyed either from Our City or Port of <hi>London,</hi> or from any other City, Town, Port, Haven, or Creék of Our Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> any Woollen Cloth, either White Cloths, Coloured Cloths, Dreſt and Dyed out of the Whites, Cloths called <hi>Spaniſh</hi> Cloths, mixt or of one Colour, or any Bayes, Kerſies, Perpetuanos, or any Stockins, or other Woollen Commodities whatſoever, now made, or hereafter to be made within Our Realm aforeſaid, unto any thé Cities, Towns, Ports, or other Places within the Countreys of <hi>Germany,</hi> or the Seventeen Provinces of the <hi>Netherlands,</hi> ſaving onely ſuch perſon or perſons as are or ſhall be Free of, admitted and continued as Member of the ſaid Fellowſhip of Merchant-Adventurers of <hi>England,</hi> and none o<g ref="char:EOLhyphen"/>thers. And that no Freémen of the ſaid Fellowſhip ſhall Ship, Tranſport, Carry, or Convey, or cauſe to be Ship<g ref="char:EOLhyphen"/>ped, Tranſported, Carried or Conveyed, any Cloths, or Woollen Manufactures made within Our Realm, Dominion, and Town of <hi>Berwick</hi> aforeſaid, without ſpecial Licence of the ſaid Fellowſhip, into any the parts of <hi>Germany,</hi> or the Seventeén Provinces of the <hi>Netherlands,</hi> ſave onely to the Publick Marts, Staples and Reſidences de<g ref="char:EOLhyphen"/>clared by the ſaid Fellowſhip, within the parts aforeſaid beyond the Seas for the time being, or to one of them. And to the end that this Trade may be the better improved in an orderly and well Governed way, Our Will and Pleaſure is, That the ſaid Fellowſhip of Merchant-Adventurers of <hi>England</hi> ſhall from henceforth from time to time, admit and receive into the Freedom of their ſaid Fellowſhip, all and every ſuch Our Subjects, and ſuch as be Na<g ref="char:EOLhyphen"/>turalized, or made Denizen, as ſhall at any time hereafter deſire and demand the ſame: Paying Thirteén pounds ſix ſhillings eight pence as a Fine to the ſaid Fellowſhip for their Entry, Income and Admittance thereunto: That is to ſay, ſuch as are of <hi>London,</hi> to be meér Merchants, and exerciſed in that Profeſſion, and no Shop-keep<g ref="char:EOLhyphen"/>ers, except giving over their Shops, and ſuch as are of the Out-Ports, if bred in Merchandiſe, though Shop-keép<g ref="char:EOLhyphen"/>ers. Provided that every ſuch Perſon, both of <hi>London,</hi> and of the Out-Ports aforeſaid, do demand their ſaid Freedom, and be actually admitted into the ſame within one Year next enſuing the Date hereof, and that their Sons and Servants ſhall at their ſeveral Admiſſions and making Freé, be admitted for the Sum of Six pounds thirteén ſhillings and four pence, according to the Statute of the Twelfth of <hi>Henry</hi> the Seventh. And Our fur<g ref="char:EOLhyphen"/>ther Will and Pleaſure is, That no perſon or perſons not qualified as aforeſaid, ſhall preſume to Trade in any the above mentioned Commodities, into any the Foreign Parts above named, upon pain of Our high Diſpleaſure: For that We, in caſe We ſhall perceive that any perſon or perſons ſhall neglect to take hold of this Our Grace hereby offered them to be admitted into the ſaid Fellowſhip, and ſhall yet continue to Trade diſorderly into the parts of <hi>Germany,</hi> or the Seventeén Provinces of the <hi>Netherlands,</hi> and out of the Mart and Staple Towns of the ſaid Fellowſhip of Merchant-Adventurers therein for the time being, We ſhall not onely have cauſe for the future ut<g ref="char:EOLhyphen"/>terly to deny and exclude them of this Grace, but will require a ſtrict account of ſuch perſons for their contempt and neglect of this Our Royal Command herein, and will take ſuch courſe as ſhall be fitting for their puniſhment, and for the future reſtraint of ſuch Diſorders. And to the end that the Charters and Government of the ſaid Fellowſhip may be the better put in execution, and to the intent that all Offenders againſt the ſame may be diſco<g ref="char:EOLhyphen"/>vered and brought to Iuſtice, and ſuch Puniſhment inflicted upon them for ſuch their Offences, as by their ſaid Charters, Orders and Conſtitutions ought to be inflicted on ſuch as wilfully and contemptuouſly tranſgreſs againſt Our Charters, and this Our Proclamation in purſuance of the ſame; We do by and with the Advice of Our Privy Council, hereby Will and Command, as well the Iudges of Our High Court of Admiralty, as the Marſhal and under-Officers of the ſame, as alſo Our Commiſſioners or Farmers of Our Cuſtoms for the time being, and the Searchers of Our Cuſtoms in all Our Ports of <hi>England,</hi> and the ſeveral Officers of what kind ſoever, belonging to, and attending the Service of Our Cuſtoms outwards, as alſo Our Admirals, Vice-Admirals, Commanders, Captains, and Officers whatſoever of any of Our Royal Ships, or any of Our Caſtles, Block-houſes and Forts reſpectively, and all other Our Officers and Miniſters in their ſeveral Places to be Aiding and Aſſiſting unto the ſaid Fellowſhip and Company of Merchant-Adventurers of <hi>England,</hi> and all ſuch as they ſhall Employ in all matters and things tending to the Supportation of the Government of the ſaid Fellowſhip and Company, and Regulating of their Trade, and for the Preſervation of the Priviledges, Iurisdictions, and Franchiſes by Our Royal Predeceſſors to them Granted, and by Our Self to them Confirmed by Our Letters Patents.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Windſor</hi>
+                  </hi>
+                  <date>
+                     <hi>the Thirteenth day of <hi>June</hi> 1683. In the five and thirtieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings moſt Excellent Majeſty. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
